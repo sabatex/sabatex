@@ -8,3 +8,6 @@
 - [Репозиторії навчальних груп компютерної Академії ITStep](https://github.com/itstep-sabatex)![drawing](./images/step_it_eng_short.svg =50x50)
   - Приклади використання технологій (C#,JS,HTML,CSS,MVC,Razor Pages,Web API,WPF,WinForms)
   - Приклади застосування (HTTP,HTTPS,SMTP,FTP,Task,Thread,Process)
+
+  ## NUGET packages
+  - [Entity Framework Core 8, SQLIte compabylity Ubuntu 16.04 LTS](https://github.com/sabatex/Sabatex.Sqlite.Ubuntu16_04LTS)
