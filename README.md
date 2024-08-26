@@ -1,11 +1,21 @@
+| Description | Commit |
+| ----------- | ------ |
+| [Command line publish tools (NUGET/NGINX linux)](https://github.com/sabatex/Sabatex.Tools) | |
 
-- [Command line publish tools (NUGET/NGINX linux)](https://github.com/sabatex/Sabatex.Tools)
-- Група проектів які повязані з програмними продуктами BAS,1C
-  - [Приведення банківських виписок до формату придатного для завантаження стандартними механізмами BAS(1C)](https://sabatex.github.io/BankServiceFor1C8)
-  - [Пактум.Контрагент](https://github.com/sabatex/Pactum)
-- [Репозиторії навчальних груп компютерної Академії ITStep](https://github.com/itstep-sabatex)![drawing](./images/step_it_eng_short.svg =50x50)
-  - Приклади використання технологій (C#,JS,HTML,CSS,MVC,Razor Pages,Web API,WPF,WinForms)
-  - Приклади застосування (HTTP,HTTPS,SMTP,FTP,Task,Thread,Process)
+## Група проектів які повязані з програмними продуктами BAS,1C
+
+| Description | Commit |
+| ----------- | ------ |
+| [Приведення банківських виписок до формату придатного для завантаження стандартними механізмами BAS(1C)](https://sabatex.github.io/BankServiceFor1C8) ||
+| [Пактум.Контрагент](https://github.com/sabatex/Pactum) ||
+| [WebApi для 1С77, доступ до 1С77 через web API] (https://github.com/sabatex/Sabatex.V1C77.WebAPI) | ![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.V1C77.WebAPI?logo=github&style=for-the-badge) |
+
+## [Репозиторії навчальних груп компютерної Академії ITStep](https://github.com/itstep-sabatex)![drawing](./images/step_it_eng_short.svg =50x50)
+
+| Description | Commit |
+| ----------- | ------ |
+| Приклади використання технологій (C#,JS,HTML,CSS,MVC,Razor Pages,Web API,WPF,WinForms)| |
+| Приклади застосування (HTTP,HTTPS,SMTP,FTP,Task,Thread,Process) | |
 
 ## NUGET packages
 
