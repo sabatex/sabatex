@@ -1,6 +1,6 @@
 | Description | Commit |
 | ----------- | ------ |
-| [Command line publish tools (NUGET/NGINX linux)](https://github.com/sabatex/Sabatex.Tools) | |
+| [Command line publish tools (NUGET/NGINX linux)](https://github.com/sabatex/Sabatex.Tools) | ![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.Tools?logo=github&style=for-the-badge)|
 
 ## Група проектів які повязані з програмними продуктами BAS,1C
 
