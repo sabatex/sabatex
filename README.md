@@ -1,15 +1,11 @@
-| Description | Commit |
-| ----------- | ------ |
-| [Command line publish tools (NUGET/NGINX linux)](https://github.com/sabatex/Sabatex.Tools) | ![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.Tools?logo=github&style=for-the-badge)|
-| [Home Assistant Inverter Anenji WiFi doungle integration](https://github.com/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw)| ![Last Commit](https://img.shields.io/github/last-commit/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw?logo=github&style=for-the-badge)|
-
-## Група проектів які повязані з програмними продуктами BAS,1C
-
-| Description | Commit |
-| ----------- | ------ |
+| Description | NUGET |Commit |
+| ----------- | ------- | -------- |
+| [Command line publish tools (NUGET/NGINX linux)](https://github.com/sabatex/Sabatex.Tools) || ![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.Tools?logo=github&style=for-the-badge)|
+| [Home Assistant Inverter Anenji WiFi doungle integration](https://github.com/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw)| | ![Last Commit](https://img.shields.io/github/last-commit/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw?logo=github&style=for-the-badge)|
+| <b>Група проектів які повязані з програмними продуктами BAS,1C </b> | 
 | [Приведення банківських виписок до формату придатного для завантаження стандартними механізмами BAS(1C)](https://sabatex.github.io/BankServiceFor1C8) ||
-| [Пактум.Контрагент](https://github.com/sabatex/Pactum) ||
-| [WebApi для 1С77, доступ до 1С77 через web API] (https://github.com/sabatex/Sabatex.V1C77.WebAPI) | ![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.V1C77.WebAPI?logo=github&style=for-the-badge) |
+| [Пактум.Контрагент](https://github.com/sabatex/Pactum) | | |
+| [WebApi для 1С77, доступ до 1С77 через web API] (https://github.com/sabatex/Sabatex.V1C77.WebAPI) | | ![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.V1C77.WebAPI?logo=github&style=for-the-badge) | 
 
 ## [Репозиторії навчальних груп компютерної Академії ITStep](https://github.com/itstep-sabatex)![drawing](./images/step_it_eng_short.svg =50x50)
 
