@@ -1,6 +1,7 @@
 | Description | Commit |
 | ----------- | ------ |
 | [Command line publish tools (NUGET/NGINX linux)](https://github.com/sabatex/Sabatex.Tools) | ![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.Tools?logo=github&style=for-the-badge)|
+| [Home Assistant Inverter Anenji WiFi doungle integration](https://github.com/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw)| ![Last Commit](https://img.shields.io/github/last-commit/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw?logo=github&style=for-the-badge)|
 
 ## Група проектів які повязані з програмними продуктами BAS,1C
 
