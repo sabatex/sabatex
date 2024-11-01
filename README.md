@@ -1,34 +1,12 @@
-### [Command line publish tools (NUGET/NGINX linux)](https://github.com/sabatex/Sabatex.Tools)
+### Command line publish tools (NUGET/NGINX linux)
 
-![Version](https://img.shields.io/github/v/release/sabatex/Sabatex.Tools?logo=github&style=social) ![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.Tools?logo=github&style=social)
+[![Version](https://img.shields.io/github/v/release/sabatex/Sabatex.Tools?logo=github&style=social)](https://github.com/sabatex/Sabatex.Tools)
+[![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.Tools?logo=github&style=social)](https://github.com/sabatex/Sabatex.Tools)
 
-### [Home Assistant Inverter Anenji WiFi doungle integration](https://github.com/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw)
+### Home Assistant Inverter Anenji WiFi doungle integration
 
-![Version](https://img.shields.io/github/v/release/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw?logo=github&style=social)
-![Last Commit](https://img.shields.io/github/last-commit/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw?logo=github&style=social)
-
-## Група проектів які повязані з програмними продуктами BAS,1C </b>
-
-### [Приведення банківських виписок до формату придатного для завантаження стандартними механізмами BAS(1C)](https://sabatex.github.io/BankServiceFor1C8)
-
-![Version](https://img.shields.io/github/v/release/sabatex/BankServiceFor1C8?logo=github&style=social)
-![Last Commit](https://img.shields.io/github/last-commit/sabatex/BankServiceFor1C8?logo=github&style=social)
-
-### [Пактум.Контрагент](https://github.com/sabatex/Pactum)
-
-![Version](https://img.shields.io/github/v/release/sabatex/Pactum?logo=github&style=social)
-![Last Commit](https://img.shields.io/github/last-commit/sabatex/Pactum?logo=github&style=social)
-
-### [WebApi для 1С77, доступ до 1С77 через web API] (https://github.com/sabatex/Sabatex.V1C77.WebAPI)
-
-![Version](https://img.shields.io/github/v/release/sabatex/Sabatex.V1C77.WebAPI?logo=github&style=social)
-![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.V1C77.WebAPI?logo=github&style=social)
-
-## [<img src="images/step_it_eng_short.svg" width=50px height=50px> Репозиторії навчальних груп компютерної Академії ITStep](https://github.com/itstep-sabatex)  
-
-### Приклади використання технологій (C#,JS,HTML,CSS,MVC,Razor Pages,Web API,WPF,WinForms)
-
-### Приклади застосування (HTTP,HTTPS,SMTP,FTP,Task,Thread,Process)
+[![Version](https://img.shields.io/github/v/release/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw?logo=github&style=social)](https://github.com/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw)
+[![Last Commit](https://img.shields.io/github/last-commit/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw?logo=github&style=social)](https://github.com/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw)
 
 ## NUGET packages
 
@@ -67,3 +45,29 @@
 [![NuGet Version](https://img.shields.io/nuget/v/Sabatex.WPF.Controls?label=version&logo=nuget&style=social&label=)](https://www.nuget.org/packages/Sabatex.WPF.Controls)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Sabatex.WPF.Controls?color=%232694F9&label=downloads&logo=nuget&style=social)](https://www.nuget.org/packages/Sabatex.WPF.Controls)
 [![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.WPF.Controls?logo=github&style=social)](https://github.com/sabatex/Sabatex.WPF.Controls)
+
+
+
+## Група проектів які повязані з програмними продуктами BAS,1C 
+
+### Приведення банківських виписок до формату придатного для завантаження стандартними механізмами BAS(1C)
+
+[![Version](https://img.shields.io/github/v/release/sabatex/BankServiceFor1C8?logo=github&style=social)](https://sabatex.github.io/BankServiceFor1C8)
+[![Last Commit](https://img.shields.io/github/last-commit/sabatex/BankServiceFor1C8?logo=github&style=social)](https://sabatex.github.io/BankServiceFor1C8)
+
+### Пактум.Контрагент
+
+[![Version](https://img.shields.io/github/v/release/sabatex/Pactum?logo=github&style=social)](https://github.com/sabatex/Pactum)
+[![Last Commit](https://img.shields.io/github/last-commit/sabatex/Pactum?logo=github&style=social)](https://github.com/sabatex/Pactum)
+
+### WebApi для 1С77, доступ до 1С77 через web API
+
+[![Version](https://img.shields.io/github/v/release/sabatex/Sabatex.V1C77.WebAPI?logo=github&style=social)](https://github.com/sabatex/Sabatex.V1C77.WebAPI)
+[![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.V1C77.WebAPI?logo=github&style=social)](https://github.com/sabatex/Sabatex.V1C77.WebAPI)
+
+
+## [<img src="images/step_it_eng_short.svg" width=50px height=50px> Репозиторії навчальних груп компютерної Академії ITStep](https://github.com/itstep-sabatex)  
+
+### Приклади використання технологій (C#,JS,HTML,CSS,MVC,Razor Pages,Web API,WPF,WinForms)
+
+### Приклади застосування (HTTP,HTTPS,SMTP,FTP,Task,Thread,Process)
