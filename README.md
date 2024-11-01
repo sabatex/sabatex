@@ -3,10 +3,17 @@
 [![Version](https://img.shields.io/github/v/release/sabatex/Sabatex.Tools?logo=github&style=social)](https://github.com/sabatex/Sabatex.Tools)
 [![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.Tools?logo=github&style=social)](https://github.com/sabatex/Sabatex.Tools)
 
+- NUGET Packets (Automatic publishing of debug versions to the local repository and release of versions to the NUGET repository. )
+
+- ASP.NET Core project publish to linux server (support NGINX).
+
 ### Home Assistant Inverter Anenji WiFi doungle integration
 
 [![Version](https://img.shields.io/github/v/release/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw?logo=github&style=social)](https://github.com/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw)
 [![Last Commit](https://img.shields.io/github/last-commit/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw?logo=github&style=social)](https://github.com/sabatex/NetDaemonApps.InverterAnenji-4kw-7.2kw)
+
+An app that exports electricity consumption and other metrics from Chinese solar inverters to Home Assistant using the WiFi adapter attached to the inverter. [SmartESS mobile app](https://play.google.com/store/apps/details?id=com.eybond.smartclient.ess).
+
 
 ## NUGET packages
 
