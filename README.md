@@ -74,6 +74,13 @@ An app that exports electricity consumption and other metrics from Chinese solar
 [![Version](https://img.shields.io/github/v/release/sabatex/Sabatex.V1C77.WebAPI?logo=github&style=social)](https://github.com/sabatex/Sabatex.V1C77.WebAPI)
 [![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.V1C77.WebAPI?logo=github&style=social)](https://github.com/sabatex/Sabatex.V1C77.WebAPI)
 
+### TaxService
+  Програма призначена для завантаження вивантаження податкових накладних в ХML. Підтримуються корфігурації 1С7.7, 1С8.2, 1С8.3
+  [![Version](https://img.shields.io/github/v/release/sabatex/TaxService?logo=github&style=social)](https://github.com/sabatex/TaxService)
+  [![Last Commit](https://img.shields.io/github/last-commit/sabatex/TaxService?logo=github&style=social)](https://github.com/sabatex/TaxService)
+ 
+
+
 
 ## [<img src="images/step_it_eng_short.svg" width=50px height=50px> Репозиторії навчальних груп компютерної Академії ITStep](https://github.com/itstep-sabatex)  
 
