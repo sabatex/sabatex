@@ -23,11 +23,16 @@ An app that exports electricity consumption and other metrics from Chinese solar
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Sabatex.Sqlite.Ubuntu16_04LTS?color=%232694F9&label=downloads&logo=nuget&style=social)](https://github.com/sabatex/Sabatex.Sqlite.Ubuntu16_04LTS)
 [![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.Sqlite.Ubuntu16_04LTS?logo=github&style=social)](https://github.com/sabatex/Sabatex.Sqlite.Ubuntu16_04LTS) 
 
-### .NET Core Extensions
+### [.NET Core Extensions](https://github.com/sabatex/Extensions)
+ [![Last Commit](https://img.shields.io/github/last-commit/sabatex/Extensions?logo=github&style=social)](https://github.com/sabatex/Extensions)
 
-[![NuGet Version](https://img.shields.io/nuget/v/Extensions?label=version&logo=nuget&style=social&label=)](https://www.nuget.org/packages/Extensions)
-[![NuGet Downloads](https://img.shields.io/nuget/dt/Extensions?color=%232694F9&label=downloads&logo=nuget&style=social)](https://www.nuget.org/packages/Extensions)
-[![Last Commit](https://img.shields.io/github/last-commit/sabatex/Extensions?logo=github&style=social)](https://github.com/sabatex/Extensions) 
+- Sabatex.Extensions   
+[![NuGet Version](https://img.shields.io/nuget/v/Sabatex.Extensions?label=version&logo=nuget&style=social&label=)](https://www.nuget.org/packages/Sabatex.Extensions)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Sabatex.Extensions?color=%232694F9&label=downloads&logo=nuget&style=social)](https://www.nuget.org/packages/Sabatex.Extensions)
+
+- Sabatex.Core  
+[![NuGet Version](https://img.shields.io/nuget/v/Sabatex.Core?label=version&logo=nuget&style=social&label=)](https://www.nuget.org/packages/Sabatex.Core)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Sabatex.Core?color=%232694F9&label=downloads&logo=nuget&style=social)](https://www.nuget.org/packages/Sabatex.Core)
 
 ### Sabatex.RadzenBlazor
 
