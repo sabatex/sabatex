@@ -14,17 +14,14 @@
 
 An app that exports electricity consumption and other metrics from Chinese solar inverters to Home Assistant using the WiFi adapter attached to the inverter. [SmartESS mobile app](https://play.google.com/store/apps/details?id=com.eybond.smartclient.ess).
 
-
-## NUGET packages
-
 ### Entity Framework Core 8, SQLIte compabylity Ubuntu 16.04 LTS
 
 [![NuGet Version](https://img.shields.io/nuget/v/Sabatex.Sqlite.Ubuntu16_04LTS?label=version&logo=nuget&style=social&label=)](https://github.com/sabatex/Sabatex.Sqlite.Ubuntu16_04LTS)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Sabatex.Sqlite.Ubuntu16_04LTS?color=%232694F9&label=downloads&logo=nuget&style=social)](https://github.com/sabatex/Sabatex.Sqlite.Ubuntu16_04LTS)
 [![Last Commit](https://img.shields.io/github/last-commit/sabatex/Sabatex.Sqlite.Ubuntu16_04LTS?logo=github&style=social)](https://github.com/sabatex/Sabatex.Sqlite.Ubuntu16_04LTS) 
 
-### [.NET Core Extensions](https://github.com/sabatex/Extensions)
- [![Last Commit](https://img.shields.io/github/last-commit/sabatex/Extensions?logo=github&style=social)](https://github.com/sabatex/Extensions)
+### Sabatex common library .NET
+  [GitHub](https://github.com/sabatex/Extensions) [![Last Commit](https://img.shields.io/github/last-commit/sabatex/Extensions?logo=github&style=social)](https://github.com/sabatex/Extensions)
 
 - Sabatex.Extensions   
 [![NuGet Version](https://img.shields.io/nuget/v/Sabatex.Extensions?label=version&logo=nuget&style=social&label=)](https://www.nuget.org/packages/Sabatex.Extensions)
